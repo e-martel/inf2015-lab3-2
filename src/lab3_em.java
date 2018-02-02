@@ -17,6 +17,7 @@ public class lab3_em {
         System.out.println("Allo Lab3");
         System.out.println("allo - alex");
         System.out.println("allo2! clone");
+        System.out.println("sfdghgfshgfh");
     }
     
 }
