@@ -15,6 +15,7 @@ public class lab3_em {
      */
     public static void main(String[] args) {
         System.out.println("Allo Lab3");
+        System.out.println("allo - alex");
     }
     
 }
